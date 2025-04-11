@@ -1,0 +1,8 @@
+title: "Elizabeth site"
+baseline: 'ce ma première expérience avec cecil'
+baseurl: 'https://baraka24.github.io/first-cecil-project/' #http://localhost:8000
+description: 'apprendre cecil et réaliser mon examen'
+author:
+  name: KAHAMBU VUGHINGO ELIZABETH
+  url: 'https://github.com/ElizabethLife/'
+image: cecil-card.png
